@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SmartButler</string>
+    <string name="text_setting">设置</string>
+    <string name="text_now_login">正在登陆...</string>
+    <string name="text_query">查询</string>
+    <string name="text_input_phone">请输入电话号码</string>
+    <string name="title_activity_we_chat_detail">WeChatDetailActivity</string>
+    <string name="text_welfare">福利</string>
+</resources>
